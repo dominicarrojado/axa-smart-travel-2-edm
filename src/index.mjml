@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title> AXA SmartTravel </mj-title>
+    <mj-title> AXA SmartTravel 2 - Dominic Arrojado </mj-title>
 
     <!-- START of Global Attributes -->
     <mj-breakpoint width="800px" />
@@ -87,8 +87,8 @@
     </mj-style>
     <!-- END of Internal/Mobile Styles -->
 
-    <!-- START of Google Tag Manager -->
     <mj-raw>
+      <!-- START of Google Tag Manager -->
       <script>
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
@@ -101,8 +101,57 @@
           f.parentNode.insertBefore(j, f);
         })(window, document, "script", "dataLayer", "GTM-TSMLTPT");
       </script>
+      <!-- END of Google Tag Manager -->
+
+      <link rel="icon" href="https://dominicarrojado.com/favicon.ico" />
+      <meta name="theme-color" content="#d7e1e9" />
+      <meta name="description" content="Email template for AXA SmartTravel 2" />
+      <link
+        rel="canonical"
+        href="https://dominicarrojado.com/axa-smart-travel-2-edm/"
+      />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta
+        property="og:title"
+        content="AXA SmartTravel 2 - Dominic Arrojado"
+      />
+      <meta
+        property="og:description"
+        content="Email template for AXA SmartTravel 2"
+      />
+      <meta
+        property="og:url"
+        content="https://dominicarrojado.com/axa-smart-travel-2-edm/"
+      />
+      <meta
+        property="og:site_name"
+        content="AXA SmartTravel 2 - Dominic Arrojado"
+      />
+      <meta
+        property="og:image"
+        content="https://dominicarrojado.com/axa-smart-travel-2-edm/images/axa-smart-travel-2-screenshot.png"
+      />
+      <meta
+        property="og:image:secure_url"
+        content="https://dominicarrojado.com/axa-smart-travel-2-edm/images/axa-smart-travel-2-screenshot.png"
+      />
+      <meta property="og:image:width" content="2880" />
+      <meta property="og:image:height" content="1800" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:description"
+        content="Email template for AXA SmartTravel 2"
+      />
+      <meta
+        name="twitter:title"
+        content="AXA SmartTravel 2 - Dominic Arrojado"
+      />
+      <meta
+        name="twitter:image"
+        content="https://dominicarrojado.com/axa-smart-travel-2-edm/images/axa-smart-travel-2-screenshot.png"
+      />
     </mj-raw>
-    <!-- END of Google Tag Manager -->
   </mj-head>
   <mj-body width="800px" background-color="#d7e1e9">
     <mj-wrapper css-class="wrapper" padding="40px 0">
@@ -173,6 +222,7 @@
             </mj-text>
             <mj-button
               href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+              rel="noopener noreferrer nofollow"
               css-class="btn-hover-white"
               align="center"
               padding-top="20px"
@@ -195,6 +245,7 @@
           <mj-column width="100%">
             <mj-button
               href="https://www.axa.com.sg/promotions/smart-traveller"
+              rel="noopener noreferrer nofollow"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -262,6 +313,7 @@
           </mj-text>
           <mj-button
             href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+            rel="noopener noreferrer nofollow"
             css-class="col-right-text btn-hover-blue"
             align="left"
             padding="20px 30px 0"
@@ -283,6 +335,7 @@
           <mj-column width="100%">
             <mj-button
               href="https://www.axa.com.sg/promotions/smart-traveller"
+              rel="noopener noreferrer nofollow"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -343,6 +396,7 @@
             </mj-text>
             <mj-button
               href="https://www.axa.com.sg/home-insurance"
+              rel="noopener noreferrer nofollow"
               css-class="btn-hover-blue"
               align="center"
               padding-top="20px"
@@ -365,6 +419,7 @@
           <mj-column width="100%">
             <mj-button
               href="https://www.axa.com.sg/promotions/home-promo"
+              rel="noopener noreferrer nofollow"
               css-class="btn-text-hover"
               align="right"
               border="none"
@@ -385,6 +440,7 @@
         <mj-column width="16%" vertical-align="middle" padding-top="20px">
           <mj-button
             href="https://www.axa.com.sg/"
+            rel="noopener noreferrer nofollow"
             css-class="btn-text-hover"
             align="center"
             background-color="transparent"
@@ -410,7 +466,12 @@
         </mj-column>
         <mj-column width="24%" vertical-align="middle" padding-top="20px">
           <mj-text align="center">
-            <a href="https://www.facebook.com/AXASingapore" class="btn-text">
+            <a
+              href="https://www.facebook.com/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
               <img
                 src="images/btn-facebook-like.png"
                 alt="Facebook like"
@@ -420,6 +481,8 @@
             &nbsp;&nbsp;
             <a
               href="https://www.youtube.com/user/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
               class="btn-text"
             >
               <img
@@ -429,7 +492,12 @@
               />
             </a>
             &nbsp;&nbsp;
-            <a href="https://www.linkedin.com/company/axa/" class="btn-text">
+            <a
+              href="https://www.linkedin.com/company/axa/"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
               <img
                 src="images/btn-linkedin.png"
                 alt="LinkedIn"
@@ -441,5 +509,18 @@
       </mj-section>
       <!-- END of Footer -->
     </mj-wrapper>
+
+    <mj-raw>
+      <!-- START of Google Tag Manager (noscript) -->
+      <noscript
+        ><iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-TSMLTPT"
+          height="0"
+          width="0"
+          style="display: none; visibility: hidden"
+        ></iframe
+      ></noscript>
+      <!-- END of Google Tag Manager (noscript) -->
+    </mj-raw>
   </mj-body>
 </mjml>
