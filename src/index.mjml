@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title> AXA SmartTravel 2 - Dominic Arrojado </mj-title>
+    <mj-title> AXA SmartTravel 2 | Dominic Arrojado </mj-title>
 
     <!-- START of Global Attributes -->
     <mj-breakpoint width="800px" />
@@ -114,7 +114,7 @@
       <meta property="og:type" content="website" />
       <meta
         property="og:title"
-        content="AXA SmartTravel 2 - Dominic Arrojado"
+        content="AXA SmartTravel 2 | Dominic Arrojado"
       />
       <meta
         property="og:description"
@@ -124,10 +124,7 @@
         property="og:url"
         content="https://dominicarrojado.com/axa-smart-travel-2-edm/"
       />
-      <meta
-        property="og:site_name"
-        content="AXA SmartTravel 2 - Dominic Arrojado"
-      />
+      <meta property="og:site_name" content="Dominic Arrojado" />
       <meta
         property="og:image"
         content="https://dominicarrojado.com/axa-smart-travel-2-edm/images/axa-smart-travel-2-screenshot.png"
@@ -145,7 +142,7 @@
       />
       <meta
         name="twitter:title"
-        content="AXA SmartTravel 2 - Dominic Arrojado"
+        content="AXA SmartTravel 2 | Dominic Arrojado"
       />
       <meta
         name="twitter:image"
